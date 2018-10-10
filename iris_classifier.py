@@ -10,7 +10,6 @@ from sklearn.svm import SVC
 from sklearn.metrics import f1_score, make_scorer
 import pandas as pd
 import numpy as np
-from plot_model import plot_model
 
 
 # In[2]:
